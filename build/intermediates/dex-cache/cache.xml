@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_43cd8aadd5be2d3dd773c61cda18ce4f1fd7722a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_38c899ae9243acbe5c9b804153985eb606ee2dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b1349dd2114b5225d2b93085e3fdd1eb44ae7ec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_52b1e47245beb987c66245efb7ad1eef6fd608ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_3f50c04dd5a76a502fd1d01d0bb50fb12439ecaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_23fb100712a618de154d863ea1e0fa91b6e79191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5715b9dd5c71acc9d0752943eda2d36bbd85b8f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_66e77cc85b735f2c2005da132037167acd7029aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_93de2804c2fb98e781b478f325757703086dc39a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f662c62a180e040cca7ac06362d04cd807c86b35">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_61996b0079b33ae2ac5bda76eba57940e9eb62c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c062906a00c6780422ecb73077586a0988a41004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gerome\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_4e348639f0efc8cd0e19f20d17e1c1ee156cd1cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a98b40bc6af2cf87df3e2f372bb7432017a35548">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_05503a4050bf5397d9c68a40e16433f69c7441ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_672af7ecb2251e78eae02a9c1cbcb60692ff40db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_f72b85b2f613ee7413f7571194a306db5b4864db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Users\Gerome\Documents\GitHub\MovieSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9b60a69ece8f2baafa757803f20d1b6980c162d4\classes.dex" />
+    </item>
+
+</items>
